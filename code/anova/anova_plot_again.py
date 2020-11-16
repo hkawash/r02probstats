@@ -11,8 +11,8 @@ from matplotlib.backends.backend_pdf import PdfPages
 sns.set(style="whitegrid")
 
 # 重要パラメータ
-sigma = np.sqrt(2)  # 水準共通の母標準偏差
-# sigma = np.sqrt(0.2)  # 水準共通の母標準偏差
+# sigma = np.sqrt(2)  # 水準共通の母標準偏差
+sigma = np.sqrt(0.2)  # 水準共通の母標準偏差
 
 # anova-data (2019): anova用
 # ttest-data (2020): ttest用だが 3群データ入っている（群1, 3を利用）
@@ -101,7 +101,7 @@ else:
     f, p_f = sp.stats.f_oneway(grouplist[0], grouplist[1])
     print((f, p_f))
 
-    title_str = "t = {:.2f}, p = {:.2e}".format(t, p) + \
+    title_str = "t = {:.2f}, p = {:.2e}".format(t, p_t) + \
         ", mean: ({:.2f}, {:.2f})".format(meanlist[0], meanlist[1])
 
     save_figs(f'ttest-var{var:.2f}.png', title_str, df, orient='v')
