@@ -56,5 +56,6 @@ $\rightarrow$ スライド（講義内容や宿題），レポート，各回の
 
 ## 練習問題
 
-- [昨年の中間テスト（11/9アップロード予定）](exercise/exam1.pdf)
+- [昨年の中間テスト](exercise/exam1.pdf)
+  - [解答](exercise/exam1_answer.pdf)
 - [前期「統計学」](https://tyamamot.github.io/statistics-2020/)の後半の練習問題（第8回，第9回）
