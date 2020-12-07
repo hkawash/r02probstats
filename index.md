@@ -27,7 +27,7 @@
 |5 |2020/11/02 |[大数の法則と中心極限定理](slide/ProbStat2020_05.pdf) |
 |6 |2020/11/09 |[母平均のt検定](slide/ProbStat2020_06.pdf) |
 |7 |2020/11/16 |[分散分析](slide/ProbStat2020_07.pdf) |
-|8 |2020/11/23 |[中間テスト（問題）](exercise/exam1-2020.pdf)[（解答）](exam1-2020_answer.pdf)<br />[分散分析の補足](slide/ProbStat2020_08.pdf) |
+|8 |2020/11/23 |[中間テスト（問題）](exercise/exam1-2020.pdf)[（解答）](exercise/exam1-2020_answer.pdf)<br />[分散分析の補足](slide/ProbStat2020_08.pdf) |
 |9 |2020/11/30 |[標本調査と実験計画](slide/ProbStat2020_09.pdf) |
 |10|2020/12/07 |[母比率の検定と推定](slide/ProbStat2020_10.pdf) |
 |11|2020/12/14 |カイ二乗検定 |
